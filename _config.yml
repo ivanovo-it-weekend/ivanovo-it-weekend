@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Ivanovo IT Weekend
+subtitle: 'Организация докладов в Ивановском IT-сообществе'
 description: ''
-keywords:
-author: John Doe
-language: en
+keywords: Ivanovo, разработка, доклады, аналитика, QA
+author: Ivanovo IT Weekend
+language: ru
 timezone: ''
 
 # URL
