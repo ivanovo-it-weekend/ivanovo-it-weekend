@@ -8,7 +8,7 @@ tags:
 
 #### 
 
-{% youtube BZpjgw1Hs34 %}
+{% youtube HiGyFB2-utM %}
 
 Team Lead компании Esanum GmbH Лапшин Станислав, поделился полезной информацией о реализации CQRS архитектуры в Django.
 
