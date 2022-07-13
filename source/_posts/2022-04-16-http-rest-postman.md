@@ -9,8 +9,9 @@ tags:
 
 {% youtube SPV8lXKKR0Q %}
 
-Teamlead Garpix Анна Хромова расскажет про HTTP, REST и Postman.
+Teamlead Garpix Анна Хромова рассказала про HTTP, REST и Postman.
 
+Обсудили:
 - протоколы передачи данных http и не только
 - от SOAP к REST: основные принципы
 - что интересного в методе GET
