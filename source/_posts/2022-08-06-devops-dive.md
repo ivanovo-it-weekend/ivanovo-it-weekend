@@ -1,6 +1,6 @@
 ---
 title: DevOps - погружение в тему
-date: 2022-08-05
+date: 2022-08-06
 tags:
 - DevOps
 ---
