@@ -30,4 +30,4 @@ CEO компании Spectr Алексей Цыкарев, рассказал о
 
 Митапы Ivanovo IT Weekend: [Youtube](https://www.youtube.com/channel/UCvNa9tbtI1_xgiY6F1QvQZQ)
 
-Telegram-канал сообщества: [t.me/ivanovo_it_weekend](https://t.me/ivanovo_it_weekend)
+[Telegram-канал сообщества](https://t.me/ivanovo_it_weekend)
